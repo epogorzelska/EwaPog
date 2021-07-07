@@ -1,2 +1,2 @@
 # EwaPog
-this is mu MIT summer course 
+this is my MIT summer course 
